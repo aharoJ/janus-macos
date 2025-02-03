@@ -1,0 +1,6 @@
+# .dockerignore
+# generated_samples/
+venv/
+.git/
+*.pyc
+.DS_Store
