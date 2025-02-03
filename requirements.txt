@@ -1,0 +1,12 @@
+transformers==4.38.2
+accelerate==0.27.2
+timm==0.9.16
+sentencepiece==0.2.0
+einops==0.7.0
+numpy==1.26.4
+huggingface-hub==0.20.3
+attrdict==2.0.1
+tqdm==4.66.1
+omegaconf==2.3.0
+diffusers==0.26.3
+open_clip_torch==2.20.0
